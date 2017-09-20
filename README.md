@@ -1,2 +1,3 @@
 # hello-world
-my first repository, so excited
+my first repository 
+Thus I'm so excited I cannot stand the excitement
